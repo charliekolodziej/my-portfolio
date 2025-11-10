@@ -1,0 +1,87 @@
+<!--Code you don't -->
+<head>
+    <title> Charlie Kolodziej </title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="keywords" content="Charlie Kolodziej, Journalism, digital storytelling, arts and culture, chicago, northwestern university, medill">
+  <meta name="description" content="Chicago Journalism">
+<meta name="author" content ="Charlie Kolodziej">
+<meta http-equiv="refresh" content="30">
+<!--30 refers to seconds^-->
+  <title>Journalism Portfolio</title>
+  <link rel="icon" type="image/x-icon" href="https://common.northwestern.edu/favicon.ico" />
+
+  <style>
+    /* Basic Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+
+    header {
+      background: #ccffff;
+      color: black;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    nav ul li a {
+      color: black;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+      color: #222;
+    }
+
+    .section-content {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      background: #ccffff;
+      color: black;
+      text-align: center;
+      padding: 20px 0;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 768px) {
+      nav ul {
+        flex-direction: column;
+        gap: 10px;
+      }
+    }
+  </style>
+</head>
