@@ -1,17 +1,5 @@
-<!--Code you don't -->
-<head>
-    <title> Charlie Kolodziej </title>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="keywords" content="Charlie Kolodziej, Journalism, digital storytelling, arts and culture, chicago, northwestern university, medill">
-  <meta name="description" content="Chicago Journalism">
-<meta name="author" content ="Charlie Kolodziej">
-<meta http-equiv="refresh" content="30">
-<!--30 refers to seconds^-->
-  <title>Journalism Portfolio</title>
-  <link rel="icon" type="image/x-icon" href="https://common.northwestern.edu/favicon.ico" />
 
-  <style>
+
     /* Basic Reset */
     * {
       margin: 0;
@@ -83,5 +71,4 @@
         gap: 10px;
       }
     }
-  </style>
-</head>
+
